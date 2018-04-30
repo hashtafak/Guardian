@@ -44,7 +44,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 
 ***Step 6*** 
 * Set a Server Hostname & Label (name it whatever you want)
-![Example-hostname](https://i.imgur.com/NtualgA.png)
+![Example-hostname](https://i.imgur.com/nuh6Roz.png)
 ***
 
 ***Step 7***
