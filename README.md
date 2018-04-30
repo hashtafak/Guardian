@@ -108,7 +108,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ***Step 8***
 * Paste the code below into the putty terminal then press enter
 
-`bash guardian_install_install.sh`
+`bash guardian_install.sh`
 
 ![Example-Bash](https://i.imgur.com/LqXgMLG.png)
 
